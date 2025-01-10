@@ -1,0 +1,52 @@
+@import "../../../../shared/variables.scss";
+
+
+.focus {
+    box-shadow: 0px 0px 0px 5px $focus;
+    transition: 0.3s;
+    border: 3px solid $blue;
+}
+
+.search {
+    background-color: $search_back;
+    border: 3px solid $border;
+    border-radius: 50px;
+    cursor: pointer;
+
+    width: 370px;
+    height: 40px;
+
+    padding: 0px 30px;
+    align-items: center;
+    gap: 15px;
+    display: flex;
+
+    @media screen and (hover: hover) {
+        &:hover {
+            transition: 0.3s;
+            border: 3px solid $blue;
+        }
+    }
+
+    &:focus {
+        transition: 0.3s;
+        border: 3px solid $blue;
+    }
+
+    input {
+        background-color: transparent;
+        border: none;
+        color: $border;
+        user-select: none;
+        outline: 0;
+        font: 400 14px Inter;
+
+        height: 100%;
+        width: 100%;
+
+
+        &::placeholder {
+            font: 400 14px Inter;
+        }
+    }
+}

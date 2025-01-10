@@ -1,0 +1,78 @@
+@import "../../../../shared/variables.scss";
+
+.new__task {
+    color: $border;
+    background-color: $background_white;
+    border-radius: 5px;
+    padding: 16px;
+    display: flex;
+
+    form {
+        width: 100%;
+        gap: 8px;
+        display: flex;
+        flex-direction: column;
+
+        .new__task-elem {
+            gap: 15px;
+            display: flex;
+    
+            input {
+                background-color: transparent;
+                border: 1px solid $border;
+                border-radius: 5px;
+                color: white;
+                caret-color: $blue;
+    
+                height: 22px;
+    
+    
+                &:focus {
+                    border: 1px solid $blue;
+                    transition: 0.3s;
+                }
+
+                &:hover {
+                    border: 1px solid $blue;
+                    transition: 0.3s;
+                }
+            }
+    
+            label {
+                line-height: 21px;
+                font: 400 14px Inter;
+            }
+        }
+    
+    
+        .new__task-buttons {
+            width: 100%;
+            
+            margin-top: 8px;
+            justify-content: end;
+            gap: 5px;
+            display: flex;
+    
+            button {
+                width: 40px;
+                height: 40px;
+    
+                border-radius: 50%;
+                background-color: $background_white;
+                border: none;
+
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+
+                @media screen and (hover: hover) {
+                    &:hover {
+                        background-color: $search_back_hover;
+                        transition: 0.3s;
+                    }
+                }
+            }
+        }
+    }
+}

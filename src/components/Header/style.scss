@@ -1,0 +1,9 @@
+.main__header {
+    max-width: 1920px;
+    min-width: calc(768px - 30px);
+
+    padding: 0px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

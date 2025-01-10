@@ -1,0 +1,17 @@
+.main__page {
+    max-width: 1920px;
+    min-width: calc(768px - 30px);
+
+    padding: 0px 15px;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    gap: 30px;
+
+
+    .tasks-todo {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+}
