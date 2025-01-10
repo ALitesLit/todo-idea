@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/todo-idea/static/css/main.b7c7b7ea.css",
+    "main.js": "/todo-idea/static/js/main.fe2a78fd.js",
+    "static/media/task_board.png": "/todo-idea/static/media/task_board.e87578676c74758a4d27.png",
+    "static/media/delete-blue.svg": "/todo-idea/static/media/delete-blue.67aaa76b108b63bd63e7.svg",
+    "static/media/cancel.svg": "/todo-idea/static/media/cancel.4298c975e2f8afb05b00c27c730aebb9.svg",
+    "static/media/delete.svg": "/todo-idea/static/media/delete.3639a90de5bfc64f55bb.svg",
+    "static/media/in_progress.svg": "/todo-idea/static/media/in_progress.328da6f85bdfd41de37904a919457f6a.svg",
+    "static/media/preview.svg": "/todo-idea/static/media/preview.4ced93e240e15d5505d2f602cf044d6e.svg",
+    "static/media/search.svg": "/todo-idea/static/media/search.91cdea79ffc17a03d6c58063335795c1.svg",
+    "static/media/todo.svg": "/todo-idea/static/media/todo.56c0827f3790774f817b4aa5acf7ebb8.svg",
+    "index.html": "/todo-idea/index.html",
+    "static/media/done.svg": "/todo-idea/static/media/done.a14f629cff80fa77533796afc39c831a.svg",
+    "static/media/edit_white.svg": "/todo-idea/static/media/edit_white.5204218458d79c77b646.svg",
+    "static/media/edit.svg": "/todo-idea/static/media/edit.ca25c2682073dfbde26e.svg",
+    "static/media/check.svg": "/todo-idea/static/media/check.b7b27d6adef6338e4bdf9155be1b6006.svg",
+    "main.b7c7b7ea.css.map": "/todo-idea/static/css/main.b7c7b7ea.css.map",
+    "main.fe2a78fd.js.map": "/todo-idea/static/js/main.fe2a78fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7c7b7ea.css",
+    "static/js/main.fe2a78fd.js"
+  ]
+}
