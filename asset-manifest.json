@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/todo-idea/static/css/main.b7c7b7ea.css",
-    "main.js": "/todo-idea/static/js/main.fe2a78fd.js",
+    "main.js": "/todo-idea/static/js/main.78e54631.js",
     "static/media/task_board.png": "/todo-idea/static/media/task_board.e87578676c74758a4d27.png",
     "static/media/delete-blue.svg": "/todo-idea/static/media/delete-blue.67aaa76b108b63bd63e7.svg",
     "static/media/cancel.svg": "/todo-idea/static/media/cancel.4298c975e2f8afb05b00c27c730aebb9.svg",
@@ -16,10 +16,10 @@
     "static/media/edit.svg": "/todo-idea/static/media/edit.ca25c2682073dfbde26e.svg",
     "static/media/check.svg": "/todo-idea/static/media/check.b7b27d6adef6338e4bdf9155be1b6006.svg",
     "main.b7c7b7ea.css.map": "/todo-idea/static/css/main.b7c7b7ea.css.map",
-    "main.fe2a78fd.js.map": "/todo-idea/static/js/main.fe2a78fd.js.map"
+    "main.78e54631.js.map": "/todo-idea/static/js/main.78e54631.js.map"
   },
   "entrypoints": [
     "static/css/main.b7c7b7ea.css",
-    "static/js/main.fe2a78fd.js"
+    "static/js/main.78e54631.js"
   ]
 }
